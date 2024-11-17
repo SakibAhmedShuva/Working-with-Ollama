@@ -1,0 +1,45 @@
+Ollama supports various models including:
+
+LLaMA 2 family:
+
+
+llama2
+llama2-uncensored
+llama2:13b
+llama2:70b
+
+
+Mistral family:
+
+
+mistral
+mistral:7b
+mistral-openorca
+mixtral (8x7b model)
+
+
+Code-specialized models:
+
+
+codellama
+codellama:13b
+codellama:34b
+codellama-python
+wizard-coder
+
+
+Smaller/faster models:
+
+
+orca-mini
+phi
+
+
+Open source alternatives:
+
+
+vicuna
+neural-chat
+starling-lm
+stable-beluga
+yi (34b)
