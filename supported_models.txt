@@ -15,7 +15,7 @@ Mistral family:
 mistral
 mistral:7b
 mistral-openorca
-mixtral (8x7b model)
+mixtral:8x7b
 
 
 Code-specialized models:
