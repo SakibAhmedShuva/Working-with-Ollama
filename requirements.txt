@@ -1,0 +1,4 @@
+huggingface-hub==0.25.1
+transformers==4.45.1
+accelerate==0.34.2
+einops==0.8.0
